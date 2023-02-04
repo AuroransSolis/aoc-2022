@@ -1,0 +1,21 @@
+# Rust
+**/Cargo.lock
+**/target/
+
+# SystemVerilog
+**/d*-modelsim/
+**/d*-quartus/
+**/d*-vivado/
+
+# Misc.
+**/flamegraph.svg
+**/perf.data*
+**/.gdb_history
+.vscode/
+.stfolder/
+
+# Ignore large inputs
+inputs/d*deep*.txt
+inputs/d*extra*.txt
+inputs/d*large*.txt
+inputs/d*wide*.txt

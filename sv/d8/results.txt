@@ -1,0 +1,11 @@
+Part 1:
+  - Cycles: ???
+  - fmax: ???
+
+Part 2:
+  - Cycles:
+    - Synchronised: [107253, 56699, 42744, 38622, 39362, 38532, 38341, 38316] for 1-8 checkers
+    - All at once: ???
+  - fmax:
+    - Synchronised: ???
+    - All at once: ???
